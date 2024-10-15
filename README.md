@@ -24,5 +24,4 @@ This is the implementation of kg-core index, which is described in the following
   - the size of core(number of nodes in the core you queried)
   - every each node
 
-Example code for the index construction is below
 
